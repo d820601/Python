@@ -26,7 +26,7 @@ for x in range(2):
 1
 ```
 
-## *Everything* is an object*
+## *Everything* is an object
 * function and data 都視為 object
 * Dynamic type binding (動態型態繫結)
 >> 不用先宣告型態，執行時才將變數名稱跟型態做連結，甚至同一個變數的形態可以變動。反之， Static type binding 的繫結時間是編譯階段。
